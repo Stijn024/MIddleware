@@ -17,3 +17,9 @@
 
 The repository is structured with separate commits for each exercise in the Eloquent - Being relatable module. This allows you to review each stage of the module independently, making it easier to provide targeted feedback.
 Please refer to the specific commits to see the progress and implementation details for each of the four exercises.
+
+### 1.Hello Middleware → 1.Hello Middleware
+
+1. Installed api routes.
+2. Created GET `/api/forecast/{city}`-route.
+3. Created `ForecastController` setting up the Open-Meteo api. (using `Http::get`)
